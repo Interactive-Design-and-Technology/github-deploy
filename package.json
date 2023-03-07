@@ -1,5 +1,6 @@
 {
   "name": "github-deploy",
+  "homepage": "https://interactive-design-and-technology.github.io/github-deploy",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
